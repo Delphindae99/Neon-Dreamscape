@@ -5,7 +5,9 @@
 ![](preview/GNOME-1.png)
 ![](preview/GNOME-2.png)
 ### Installation
-Download the .zip file and extract contents to `~/.local/share/icons/` or  `~/.icons/`. If neither of these folders exists, create one. To set icon theme, run:
+Run `cd ~/.icons && git clone https://github.com/Delphindae99/Neon-Dreamscape` to download files. (If ~/.icons/ does not exist, create it.) The GitHub .ZIP files do not preserve symlinks, so you must use `git clone`.
+
+To set icon theme, run:
 
 `gsettings set.org.gnome.desktop.interface icon-theme Neon-Dreamscape`
 
@@ -16,7 +18,8 @@ The icons in the "Status" folder are designed for KDE Plasma. On GNOME, the stat
 ## For KDE Plasma
 ![](preview/Plasma.png)
 ### Installation
-Download the .zip file and extract contents to `~/.local/share/icons/`. If it does not exist, create it. The theme should now be available under "Appearance" in Plasma system settings.
+Run `cd ~/.local/share/icons && git clone https://github.com/Delphindae99/Neon-Dreamscape` to download files. (If ~/.icons/ does not exist, create it.) The GitHub .ZIP files do not preserve symlinks, so you must use `git clone`.
+The theme should now be available under "Appearance" in Plasma system settings.
 
 ### Dolphin File Manager
 In some cases, by default, Dolphin's icon will display as a purple file folder. This is because the icon, as is at install, is `system-file-manager`. For those who would like the blue dolphin icon pictured above, run
