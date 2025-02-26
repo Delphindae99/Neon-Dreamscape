@@ -18,7 +18,7 @@ The icons in the "Status" folder are designed for KDE Plasma. On GNOME, the stat
 ## For KDE Plasma
 ![](preview/Plasma.png)
 ### Installation
-Run `cd ~/.local/share/icons && git clone https://github.com/Delphindae99/Neon-Dreamscape` to download files. (If ~/.icons/ does not exist, create it.) The GitHub .ZIP files do not preserve symlinks, so you must use `git clone`.
+Run `cd ~/.local/share/icons && git clone https://github.com/Delphindae99/Neon-Dreamscape` to download files. (If ~/.local/share/icons/ does not exist, create it.) The GitHub .ZIP files do not preserve symlinks, so you must use `git clone`.
 The theme should now be available under "Appearance" in Plasma system settings.
 
 ### Dolphin File Manager
