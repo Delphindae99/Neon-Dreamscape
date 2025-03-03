@@ -21,9 +21,11 @@ The icons in the "Status" folder are designed for KDE Plasma. On GNOME, the stat
 ![](preview/Plasma.png)
 ### Installation
 Run `cd ~/.local/share/icons && git clone https://github.com/Delphindae99/Neon-Dreamscape` to download files. (If ~/.local/share/icons/ does not exist, create it.) The GitHub .ZIP files do not preserve symlinks, so you must use `git clone`.
+Alternately, install from KDE Plasma Appearance settings. This will also preserve symlinks. DO NOT USE .ZIP FILES.
+
 The theme should now be available under "Appearance" in Plasma system settings.
 
-Note that you may need to manually update this icon set due to using manual git. If you have a GitHub account, you can watch and star the original repository for updates and run `git pull` in the icon root directory.
+Note that you may need to manually update this icon set due to using manual git. If you have a GitHub account, you can watch and star the original repository for updates and run `git pull` in the icon root directory. If you installed through KDE Plasma Appearance settings or Discover, it should update automatically with GitHub.
 
 ### Dolphin File Manager
 In some cases, by default, Dolphin's icon will display as a purple file folder. This is because the icon, as is at install, is `system-file-manager`. For those who would like the blue dolphin icon pictured above, run
