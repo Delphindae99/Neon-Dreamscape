@@ -2,7 +2,6 @@
 >Dark mode icon theme derived from EliverLara's [Candy-Icons](https://github.com/EliverLara/candy-icons) and L4ki's [Azure-Glassy-Dark-Icons](https://github.com/L4ki/Azure-Plasma-Themes).
 
 ## For GNOME
-![](preview/GNOME-1.png)
 ![](preview/GNOME-2.png)
 ### Installation
 Run `cd ~/.icons && git clone https://github.com/Delphindae99/Neon-Dreamscape` to download files. (If ~/.icons/ does not exist, create it.) The GitHub .ZIP files do not preserve symlinks, so you must use `git clone`.

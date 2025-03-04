@@ -55,91 +55,6 @@
          id="stop1968" />
     </linearGradient>
     <linearGradient
-       id="c"
-       y1="523.79999"
-       x1="403.57001"
-       y2="536.79999"
-       x2="416.57001"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.34526714,0,0,0.34526706,-134.80427,-174.63325)">
-      <stop
-         stop-color="#292c2f"
-         id="stop1568" />
-      <stop
-         offset="1"
-         stop-opacity="0"
-         id="stop1570" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#b-2"
-       id="linearGradient4189"
-       x1="14.369"
-       y1="22.521999"
-       x2="26.521999"
-       y2="22.521999"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       x1="36"
-       gradientUnits="userSpaceOnUse"
-       x2="14"
-       y2="12"
-       y1="44"
-       id="b-2">
-      <stop
-         style="stop-color:#bfc9c9;stop-opacity:1"
-         stop-color="#536161"
-         id="stop1579" />
-      <stop
-         style="stop-color:#fbfbfb;stop-opacity:1"
-         stop-color="#f4f5f5"
-         offset="1"
-         id="stop1581" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#b-2"
-       id="linearGradient4428"
-       gradientUnits="userSpaceOnUse"
-       x1="31.586"
-       y1="36.345001"
-       x2="1.2029999"
-       y2="6.723" />
-    <linearGradient
-       xlink:href="#b-2"
-       id="linearGradient4189-3"
-       x1="14.369"
-       y1="22.521999"
-       x2="26.521999"
-       y2="22.521999"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(20.841982,61.553822)" />
-    <linearGradient
-       xlink:href="#b-2"
-       id="linearGradient4428-5"
-       gradientUnits="userSpaceOnUse"
-       x1="31.586"
-       y1="36.345001"
-       x2="1.2029999"
-       y2="6.723"
-       gradientTransform="translate(20.841982,61.553822)" />
-    <linearGradient
-       xlink:href="#b-2"
-       id="linearGradient4189-3-3"
-       x1="14.369"
-       y1="22.521999"
-       x2="26.521999"
-       y2="22.521999"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(4.376802,4.4211693)" />
-    <linearGradient
-       xlink:href="#b-2"
-       id="linearGradient4428-5-5"
-       gradientUnits="userSpaceOnUse"
-       x1="31.586"
-       y1="36.345001"
-       x2="1.2029999"
-       y2="6.723"
-       gradientTransform="translate(4.376802,4.4211693)" />
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient882"
        id="linearGradient941"
@@ -160,28 +75,6 @@
          style="stop-color:#9eeaee;stop-opacity:0.40355137"
          offset="1"
          id="stop880" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3639"
-       id="linearGradient3051"
-       gradientUnits="userSpaceOnUse"
-       x1="17.043974"
-       y1="54.567589"
-       x2="46.45562"
-       y2="5.7084689"
-       gradientTransform="translate(385.17291,485.34877)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3639">
-      <stop
-         style="stop-color:#45b5d1;stop-opacity:0"
-         offset="0"
-         id="stop3635" />
-      <stop
-         style="stop-color:#62c9c9;stop-opacity:0.9921568"
-         offset="1"
-         id="stop3637" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -220,7 +113,7 @@
      inkscape:window-x="292"
      inkscape:window-y="153"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg12"
+     inkscape:current-layer="g862"
      inkscape:document-rotation="0"
      inkscape:pageshadow="2">
     <inkscape:grid
@@ -244,11 +137,6 @@
        cy="515.60962"
        rx="30.853001"
        ry="30.85281" />
-    <path
-       id="path853-7"
-       style="opacity:0.386029;fill:url(#linearGradient3051);stroke-width:2.75729;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 446.5701,515.10769 c -0.14626,16.72882 -12.97553,30.17483 -30.01507,30.17483 -17.03954,0 -29.60287,-14.98991 -29.60287,-29.53406 8.21004,-10.19211 33.25042,-10.60007 38.61686,-9.77793 5.02958,0.77053 10.8131,2.347 21.00108,9.13716 z"
-       sodipodi:nodetypes="cscsc" />
   </g>
   <rect
      width="0.92217743"
