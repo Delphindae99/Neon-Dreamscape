@@ -4,7 +4,7 @@
 ## For GNOME
 ![](preview/GNOME-2.png)
 ### Installation
-Run `cd ~/.icons && git clone https://github.com/Delphindae99/Neon-Dreamscape` to download files. (If ~/.icons/ does not exist, create it.) The GitHub .ZIP files do not preserve symlinks, so you must use `git clone`.
+Download the .ZIP file (GNOME only) and extract the contents to `~/.icons/`. If this directory does not exist, create it.
 
 To set icon theme, run:
 
@@ -19,7 +19,7 @@ The icons in the "Status" folder are designed for KDE Plasma. On GNOME, the stat
 ## For KDE Plasma
 ![](preview/Plasma.png)
 ### Installation
-Run `cd ~/.local/share/icons && git clone https://github.com/Delphindae99/Neon-Dreamscape` to download files. (If ~/.local/share/icons/ does not exist, create it.) The GitHub .ZIP files do not preserve symlinks, so you must use `git clone`.
+Run `cd ~/.local/share/icons && git clone https://github.com/Delphindae99/Neon-Dreamscape` to download files. (If ~/.local/share/icons/ does not exist, create it.) The GitHub .ZIP files do not preserve symlinks in KDE apps, so you must use `git clone`.
 Alternately, install from KDE Plasma Appearance settings. This will also preserve symlinks. DO NOT USE .ZIP FILES.
 
 The theme should now be available under "Appearance" in Plasma system settings.
