@@ -6,7 +6,7 @@
    viewBox="0 0 12.510734 12.51076"
    id="svg12"
    sodipodi:docname="preferences-desktop-tablet.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -32,6 +32,18 @@
      id="defs16">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient877">
+      <stop
+         style="stop-color:#5bff40;stop-opacity:1;"
+         offset="0"
+         id="stop873" />
+      <stop
+         style="stop-color:#33ffbc;stop-opacity:1;"
+         offset="1"
+         id="stop875" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient1033">
       <stop
          style="stop-color:#1affd9;stop-opacity:1"
@@ -51,6 +63,15 @@
        x2="34.203125"
        y2="22.713867"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient877"
+       id="linearGradient879"
+       x1="2.6621094"
+       y1="9.8828127"
+       x2="4.6328125"
+       y2="9.8828127"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="namedview14"
@@ -63,7 +84,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="9.0252824"
-     inkscape:cx="9.4179879"
+     inkscape:cx="9.5841876"
      inkscape:cy="26.813565"
      inkscape:window-width="1600"
      inkscape:window-height="836"
@@ -88,7 +109,7 @@
      d="M 7.0761719,5.4316406 V 5.5625 8.3730469 H 9.1816406 V 5.4316406 Z m 0.265625,0.2636719 H 8.9179688 V 8.109375 H 7.3417969 Z"
      id="path205-1-2-6" />
   <path
-     style="color:#000000;fill:#ffffff;-inkscape-stroke:none"
+     style="color:#000000;fill:url(#linearGradient879);-inkscape-stroke:none;fill-opacity:1"
      d="m 3.4335938,8.8964844 c -0.4256877,0 -0.7714844,0.3477498 -0.7714844,0.7734375 v 0.4257811 c 0,0.425688 0.3457967,0.773438 0.7714844,0.773438 h 0.4277343 c 0.4256877,0 0.7714844,-0.34775 0.7714844,-0.773438 V 9.6699219 c 0,-0.4256877 -0.3457967,-0.7734375 -0.7714844,-0.7734375 z m 0,0.2636719 h 0.4277343 c 0.283688,0 0.5078125,0.2260776 0.5078125,0.5097656 v 0.4257811 c 0,0.283688 -0.2241245,0.507813 -0.5078125,0.507813 H 3.4335938 c -0.283688,0 -0.5078125,-0.224125 -0.5078125,-0.507813 V 9.6699219 c 0,-0.283688 0.2241245,-0.5097656 0.5078125,-0.5097656 z"
      id="rect25-8-7-5-6" />
   <path
