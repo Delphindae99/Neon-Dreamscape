@@ -12,7 +12,6 @@ To set icon theme, run:
 
 in a terminal or install GNOME Tweaks with `sudo apt install gnome-tweaks` and change it under the "appearances" tab.
 
-Note that you may need to manually update this icon set due to using manual git. If you have a GitHub account, you can watch and star the original repository for updates and run `git pull` in the icon root directory.
 ### Status Icons
 The icons in the "Status" folder are designed for KDE Plasma. On GNOME, the status icons will be from whatever theme is listed under "Inherits" in `index.theme`. Currently, it is listed as Yaru and Adwaita. If neither of these is present or appealing, simply add the name of the desired icon theme at any point in the list prior to "Yaru".
 
@@ -27,7 +26,7 @@ The theme should now be available under "Appearance" in Plasma system settings.
 Note that you may need to manually update this icon set due to using manual git. If you have a GitHub account, you can watch and star the original repository for updates and run `git pull` in the icon root directory. If you installed through KDE Plasma Appearance settings or Discover, it should update automatically with GitHub.
 
 ### Dolphin File Manager
-In some cases, by default, Dolphin's icon will display as a purple file folder. This is because the icon, as is at install, is `system-file-manager`. For those who would like the blue dolphin icon pictured above, run
+In some cases, by default, Dolphin's icon will display as a purple file folder. This is because the icon, as is at install, is `system-file-manager`. For those who would like the gray dolphin icon pictured above, run
 
 `sudo nano /usr/share/applications/org.kde.dolphin.desktop`
 
